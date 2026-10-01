@@ -1,0 +1,8 @@
+networkx
+numpy
+sortedcontainers
+matplotlib
+jupyterlab
+
+# Only needed for the phase harmonisation.
+gurobipy

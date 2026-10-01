@@ -1,0 +1,191 @@
+[
+ {
+  "evaluations": 0,
+  "search_estimate": 105.27300146970104,
+  "eval_estimate": 105.62722646666542,
+  "eval_interval": [
+   104.39301490201001,
+   106.86143803132083
+  ]
+ },
+ {
+  "evaluations": 25000,
+  "search_estimate": 98.58299834296756,
+  "eval_estimate": 101.8852934774269,
+  "eval_interval": [
+   100.69338743146874,
+   103.07719952338506
+  ]
+ },
+ {
+  "evaluations": 50000,
+  "search_estimate": 96.67235561467787,
+  "eval_estimate": 100.60790961170878,
+  "eval_interval": [
+   99.42928919701633,
+   101.78653002640122
+  ]
+ },
+ {
+  "evaluations": 75000,
+  "search_estimate": 96.27749465546903,
+  "eval_estimate": 100.31238816044906,
+  "eval_interval": [
+   99.13739010474836,
+   101.48738621614976
+  ]
+ },
+ {
+  "evaluations": 100000,
+  "search_estimate": 95.38226396331213,
+  "eval_estimate": 99.59929723229205,
+  "eval_interval": [
+   98.42976184017459,
+   100.7688326244095
+  ]
+ },
+ {
+  "evaluations": 125000,
+  "search_estimate": 94.99627561467781,
+  "eval_estimate": 99.33438638085659,
+  "eval_interval": [
+   98.16777621766006,
+   100.50099654405311
+  ]
+ },
+ {
+  "evaluations": 150000,
+  "search_estimate": 94.65576883151763,
+  "eval_estimate": 99.03280700955526,
+  "eval_interval": [
+   97.87149146760896,
+   100.19412255150155
+  ]
+ },
+ {
+  "evaluations": 175000,
+  "search_estimate": 94.4312325726998,
+  "eval_estimate": 98.97203278181122,
+  "eval_interval": [
+   97.81037562473887,
+   100.13368993888358
+  ]
+ },
+ {
+  "evaluations": 200000,
+  "search_estimate": 94.14726440150748,
+  "eval_estimate": 98.81105631421309,
+  "eval_interval": [
+   97.65096755444497,
+   99.9711450739812
+  ]
+ },
+ {
+  "evaluations": 225000,
+  "search_estimate": 93.95130341881755,
+  "eval_estimate": 98.6513200859351,
+  "eval_interval": [
+   97.49502918046221,
+   99.80761099140798
+  ]
+ },
+ {
+  "evaluations": 250000,
+  "search_estimate": 93.7396971315,
+  "eval_estimate": 98.55091254630037,
+  "eval_interval": [
+   97.39626161991939,
+   99.70556347268135
+  ]
+ },
+ {
+  "evaluations": 275000,
+  "search_estimate": 93.40462515153934,
+  "eval_estimate": 98.37017597068727,
+  "eval_interval": [
+   97.2170749171097,
+   99.52327702426484
+  ]
+ },
+ {
+  "evaluations": 300000,
+  "search_estimate": 93.18806291006096,
+  "eval_estimate": 98.25733912753395,
+  "eval_interval": [
+   97.10422698747733,
+   99.41045126759057
+  ]
+ },
+ {
+  "evaluations": 325000,
+  "search_estimate": 93.07906162261062,
+  "eval_estimate": 98.19862624238357,
+  "eval_interval": [
+   97.0460689362655,
+   99.35118354850164
+  ]
+ },
+ {
+  "evaluations": 350000,
+  "search_estimate": 92.90581524621983,
+  "eval_estimate": 98.0333070983685,
+  "eval_interval": [
+   96.8821792880435,
+   99.18443490869349
+  ]
+ },
+ {
+  "evaluations": 375000,
+  "search_estimate": 92.79729870975366,
+  "eval_estimate": 97.99262019431433,
+  "eval_interval": [
+   96.8414458007141,
+   99.14379458791456
+  ]
+ },
+ {
+  "evaluations": 400000,
+  "search_estimate": 92.73333301494085,
+  "eval_estimate": 97.95808465066682,
+  "eval_interval": [
+   96.80750708600067,
+   99.10866221533297
+  ]
+ },
+ {
+  "evaluations": 425000,
+  "search_estimate": 92.5706709075688,
+  "eval_estimate": 97.94469190950194,
+  "eval_interval": [
+   96.79439043195343,
+   99.09499338705045
+  ]
+ },
+ {
+  "evaluations": 450000,
+  "search_estimate": 92.3721551145773,
+  "eval_estimate": 97.83184532767035,
+  "eval_interval": [
+   96.68247316055661,
+   98.98121749478409
+  ]
+ },
+ {
+  "evaluations": 475000,
+  "search_estimate": 92.15633531268881,
+  "eval_estimate": 97.62972469150873,
+  "eval_interval": [
+   96.48202321249755,
+   98.7774261705199
+  ]
+ },
+ {
+  "evaluations": 500000,
+  "search_estimate": 91.85825764905282,
+  "eval_estimate": 97.51765259478981,
+  "eval_interval": [
+   96.37035515454596,
+   98.66495003503366
+  ]
+ }
+]
